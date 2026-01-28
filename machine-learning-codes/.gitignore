@@ -1,0 +1,22 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+# R
+.Rhistory
+.RData
+
+# env / secrets
+.env
+.env.*
+!.env.example
+
+# venvs
+.venv/
+venv/
+env/
+
+# editor
+.vscode/
+
