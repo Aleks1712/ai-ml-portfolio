@@ -1,0 +1,9 @@
+jupyter
+python-dotenv
+pandas
+numpy
+scikit-learn
+sentence-transformers
+datasets
+pinecone
+
